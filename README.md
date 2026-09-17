@@ -1,3 +1,5 @@
+![MyGarage](image.png)
+
 # MyGarage
 
 MyGarage är en enkel webbapplikation byggd med Vue.js. Appen är skapad som en skoluppgift för att demonstrera grunderna i Vue.
